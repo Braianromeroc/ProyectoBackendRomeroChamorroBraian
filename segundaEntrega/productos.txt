@@ -1,0 +1,1 @@
+[{"title":"iphone","descripcion":"11 pro max","price":500,"thumbnail":"","code":"celular","stock":4,"id":1},{"title":"motorola","descripcion":"g100","price":200,"thumbnail":"","code":"celular","stock":8,"id":2}]
